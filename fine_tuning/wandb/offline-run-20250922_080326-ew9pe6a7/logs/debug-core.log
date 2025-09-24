@@ -1,0 +1,7 @@
+{"time":"2025-09-22T08:03:26.614282328Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpnicwea_y/port-2201908.txt","pid":2201908,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-09-22T08:03:26.615298141Z","level":"INFO","msg":"server: will exit if parent process dies","ppid":2201908}
+{"time":"2025-09-22T08:03:26.615265052Z","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-2201908-2202633-3741535373/socket","Net":"unix"}}
+{"time":"2025-09-22T08:03:26.791486854Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2025-09-22T08:03:26.800847499Z","level":"INFO","msg":"handleInformInit: received","streamId":"ew9pe6a7","id":"1(@)"}
+{"time":"2025-09-22T08:03:26.916535969Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"ew9pe6a7","id":"1(@)"}
+{"time":"2025-09-22T08:12:48.740100946Z","level":"INFO","msg":"server: parent process exited, terminating service process"}

@@ -1,0 +1,11 @@
+# pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+vllm==0.9.2
+datasets==3.6.0
+peft==0.15.2
+wandb==0.21.0
+evaluate==0.4.4
+nltk==3.9.1
+absl-py==2.3.0
+tensorboardX==2.6.4
+bitsandbytes==0.46.1
+autoawq
